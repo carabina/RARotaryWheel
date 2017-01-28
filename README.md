@@ -20,7 +20,7 @@ pod "RARotaryWheel"
 
 ## Author
 
-rashed, rallahaseh@gmail.com
+Rashed Al-Lahaseh, rallahaseh@gmail.com
 
 ## License
 
