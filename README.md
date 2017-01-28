@@ -9,8 +9,6 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
-
 ## Installation
 
 RARotaryWheel is available through [CocoaPods](http://cocoapods.org). To install
@@ -22,7 +20,7 @@ pod "RARotaryWheel"
 
 ## Author
 
-rashed, rashed.al-lahaseh@apprikot.com
+rashed, rallahaseh@gmail.com
 
 ## License
 
