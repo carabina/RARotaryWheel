@@ -6,6 +6,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/RARotaryWheel.svg?style=flat)](http://cocoapods.org/pods/RARotaryWheel)
 
 ## About
+Custom UIView subclass with fully customizable properties
 ![alt tag](https://lh3.googleusercontent.com/b3pCsc2VA9vhmEmVQoecf6l7_eViAy8f-TKfhiDcepy2crUHZwPt2kH9zsqLcMNO0CRDosWd8AS9Y6M=w2880-h1606)
 
 ## Example
